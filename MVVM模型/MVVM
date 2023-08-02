@@ -36,8 +36,8 @@
             data(){
                 //model
                 return {
-                    name:'武汉科技大学',
-                    address: '武汉'
+                    name:'常熟理工学院',
+                    address: '常熟'
                 }
             }
         });
